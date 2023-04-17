@@ -19,7 +19,7 @@ def get_data(service, app_id, city):
     return response.json()
 
 
-app_id = 'b6907d289e10d714a6e88b30761fae22'
+app_id = 'my_app_id'
 service = 'https://samples.openweathermap.org/data/2.5/weather'
 city = 'London'
 # city ='Manchester,uk'
